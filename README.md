@@ -3,11 +3,11 @@ Utility that allows you to switch windows into the foreground from a commandline
 
 LICENSE
 ===============
-* 
+* Freely distribute/modify this program.
 
 COMPILE TOOLS
 ===============
-* 
+* VisualAge for C++
  
 AUTHORS
 ===============
